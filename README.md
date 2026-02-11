@@ -42,8 +42,8 @@
 ---
 
 ### 📫 Connect With Me
-- **LinkedIn:** https://www.linkedin.com/in/YOUR-LINK
-- **Email:** your.email@gmail.com
+- **LinkedIn:**https://www.linkedin.com/in/mansi-vaidya/
+- **Email:** vaidyamansi713@gmail.com
 
 ---
 
