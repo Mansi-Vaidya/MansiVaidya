@@ -50,9 +50,10 @@
 </p>
 
 
-<h3 align="left"> GitHub Stats</h3>
-<img src="https://github-readme-stats.vercel.app/api?username=mansi-vaidya&theme=dark&hide_border=false&include_all_commits=false&count_private=false" /><br/>
+<h3 align="left">📊 GitHub Statistics</h3>
+
+<img src="https://github-readme-stats.vercel.app/api?username=mansi-vaidya&theme=dark&hide_border=false" /><br/>
 <img src="https://nirzak-streak-stats.vercel.app/?user=mansi-vaidya&theme=dark&hide_border=false" /><br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mansi-vaidya&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
-</br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mansi-vaidya&theme=dark&hide_border=false&layout=compact" />
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mansi-vaidya&show_icons=true&locale=en&layout=compact" alt="mansi-vaidya" /></p>
