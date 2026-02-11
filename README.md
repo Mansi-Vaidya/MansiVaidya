@@ -1,36 +1,38 @@
 <div align="center">
-  <img height="200" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"  />
-</div
-
-###
+  <img height="200" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+</div>
 
 <h1 align="center">Hi 👋, I'm Mansi Vaidya</h1>
-<h3 align="center">An Easy to Connect/remember me</h3>
+<h3 align="center">Java Full Stack Developer | Recent IT Graduate</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=deugayakwad15&label=Profile%20views&color=0e75b6&style=flat" alt="deugayakwad15" /> </p>
-
-<h3 align="left"> About Me:</h3>
-
-- 🎓 **B.E. Information Technology – Recent Graduate**
-  
-- 🔭 Focused on building **Java Backend & FullStack Development**
-
-- 🌱 I’m currently learning **Spring Security & Microservices**
-
-- 👯Pronounce: **Coder, Leader and Kind Hearted**
-
-- 👨‍💻 Visit my GitHub: **https://github.com/mansi-vaidya**
-
-- 📫 How to reach me **vaidyamansi713@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/mansi-vaidya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mansi-vaidya" height="30" width="40" /></a>
-<a href="https://instagram.com/mansi_vaidya21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mansi_vaidya21" height="30" width="40" /></a>
-<a href="https://discord.gg/https://discord.com/invite/pdHQan7e" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.com/invite/pdHQan7e" height="30" width="40" /></a>
+  <img src="https://komarev.com/ghpvc/?username=mansi-vaidya&label=Profile%20views&color=0e75b6&style=flat" alt="mansi-vaidya" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">About Me</h3>
+
+- 🎓 **B.E. Information Technology – Recent Graduate**
+- 🔭 Focused on **Java Backend & Full Stack Development**
+- 🌱 Currently learning **Spring Security & Microservices**
+- 👯 Traits: **Coder, Leader, Kind-hearted**
+- 👨‍💻 GitHub: **https://github.com/mansi-vaidya**
+- 📫 Email: **vaidyamansi713@gmail.com**
+
+---
+
+<h3 align="left">Connect with me</h3>
+<p align="left">
+  <a href="https://linkedin.com/in/mansi-vaidya" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+  </a>
+  <a href="https://instagram.com/mansi_vaidya21" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
+  </a>
+</p>
+
+---
+
+<h3 align="left">Languages and Tools</h3>
 
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
@@ -46,16 +48,11 @@
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-<br/>
 
-<h3 align="left">📊GitHub Statistics:</h3>
-<img src="https://github-readme-stats.vercel.app/api?username=mansi-vaidya&theme=dark&hide_border=false&include_all_commits=false&count_private=false" /><br/>
+---
+
+<h3 align="left">📊 GitHub Statistics</h3>
+
+<img src="https://github-readme-stats.vercel.app/api?username=mansi-vaidya&theme=dark&hide_border=false" /><br/>
 <img src="https://nirzak-streak-stats.vercel.app/?user=mansi-vaidya&theme=dark&hide_border=false" /><br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mansi-vaidya&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
-<br/><br/>
-
-
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mansi-vaidya&show_icons=true&locale=en&layout=compact" alt="mansi-vaidya" /></p>
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mansi-vaidya&theme=dark&hide_border=false&layout=compact" />
