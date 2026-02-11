@@ -8,7 +8,7 @@
 <h1 align="center">Hi 👋, I'm Mansi Vaidya</h1>
 <h3 align="center">An Easy to Connect/remember me</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=deugayakwad15&label=Profile%20views&color=0e75b6&style=flat" alt="deugayakwad15" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=deugayakwad15&label=Profile%20views&color=0e75b6&style=flat" alt="mansi-vaidya" /> </p>
 
 - 🔭 I’m currently working on **Salesforce Development**
 
