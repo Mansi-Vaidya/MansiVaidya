@@ -8,7 +8,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deugayakwad15&label=Profile%20views&color=0e75b6&style=flat" alt="deugayakwad15" /> </p>
 
-## 🙋‍♀️ About Me
+<h3 align="left"> About Me:</h3>
+
 - 🎓 **B.E. Information Technology – Recent Graduate**
   
 - 🔭 Focused on building **Java Backend & FullStack Development**
