@@ -56,6 +56,5 @@
 <img src="https://nirzak-streak-stats.vercel.app/?user=mansi-vaidya&theme=dark&hide_border=false" /><br/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mansi-vaidya&theme=dark&hide_border=false&layout=compact" />
 </p>
-<br/>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mansi-vaidya&show_icons=true&locale=en&layout=compact" alt="mansi-vaidya" /></p>
