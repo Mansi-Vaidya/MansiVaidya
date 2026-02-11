@@ -13,6 +13,7 @@
 - 👩‍💻 Recent projects: **Employee Management System | Blood Bank Management System**
 
 
+
 ## 🙋‍♀️ About Me
 
 - 🎓 **B.E. Information Technology – Recent Graduate**
@@ -21,7 +22,7 @@
 - 👯 Interested in contributing to **Java / Spring Boot projects**
 - 👨‍💻 Visit my GitHub: **https://github.com/mansi-vaidya**
 
----
+
 
 <h1 align="center">Hi 👋, I'm Mansi Vaidya</h1>
 <h3 align="center">A passionate Java Full Stack Developer from India 🇮🇳</h3>
