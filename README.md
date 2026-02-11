@@ -12,7 +12,6 @@
 - 📫 How to reach me: **vaidyamansi713@gmail.com**
 - 👩‍💻 Recent projects: **Employee Management System | Blood Bank Management System**
 
----
 
 ## 🙋‍♀️ About Me
 
