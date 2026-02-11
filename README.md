@@ -42,7 +42,7 @@
 ---
 
 ### 📫 Connect With Me
-- **LinkedIn:**https://www.linkedin.com/in/mansi-vaidya/
+- **LinkedIn:** https://www.linkedin.com/in/mansi-vaidya/
 - **Email:** vaidyamansi713@gmail.com
 
 ---
